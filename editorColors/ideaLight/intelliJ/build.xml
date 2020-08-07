@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+    Scheme build file
+    (c) dyadix 2020
+-->
+<project>
+    <property file="version.properties"/>
+
+    <property name="build.dir" location="build"/>
+    <property name="package.dir" location="${build.dir}/package"/>
+    <property name="scheme.dir" location="${package.dir}/colors"/>
+    <property name="source.dir" location="src"/>
+    <property name="resource.dir" location="resources"/>
+
+    <target name="clean">
+        <delete dir="build"/>
+    </target>
+
+    <target name="package" depends="copy">
+        <jar basedir="${package.dir}" destfile="${build.dir}/IdeaLight-${version}.jar"/>
+    </target>
+
+    <target name="copy">
+        <mkdir dir="${scheme.dir}"/>
+        <copy file="${source.dir}/IdeaLight.icls"
+              tofile="${scheme.dir}/IdeaLight.xml"/>
+        <copy todir="${package.dir}">
+            <fileset dir="${resource.dir}"/>
+        </copy>
+    </target>
+</project>
