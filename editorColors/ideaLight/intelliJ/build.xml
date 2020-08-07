@@ -3,7 +3,7 @@
     Scheme build file
     (c) dyadix 2020
 -->
-<project>
+<project name="IdeaLight" default="package" basedir=".">
     <property file="version.properties"/>
 
     <property name="build.dir" location="build"/>
