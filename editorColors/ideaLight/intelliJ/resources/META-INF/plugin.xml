@@ -1,0 +1,23 @@
+<idea-plugin>
+  <id>color.scheme.IdeaLight</id>
+  <name>IdeaLight Color Scheme</name>
+  <version>0.5</version>
+  <vendor email="dyadix@gmail.com" url="www.dyadix.net">Rustam Vishnyakov</vendor>
+
+  <description><![CDATA[
+      Low-contrast light color scheme with light gray background.
+    ]]></description>
+
+  <change-notes><![CDATA[
+      Normal font for keywords (instead of bold), JavaDoc (instead of italic), changed JavaDoc colors, other minor changes.
+    ]]>
+  </change-notes>
+
+  <idea-version since-build="142.0"/>
+
+  <depends>com.intellij.modules.lang</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <bundledColorScheme path="/colors/IdeaLight"/>
+  </extensions>
+</idea-plugin>
