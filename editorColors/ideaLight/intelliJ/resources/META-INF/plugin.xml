@@ -9,7 +9,7 @@
     ]]></description>
 
   <change-notes><![CDATA[
-      Changed Constant/Tag fonts to normal (was bold).
+      Changed Constant and markup attribute fonts to normal (was bold), Kotlin fixes (backing field variable and other)
     ]]>
   </change-notes>
 
