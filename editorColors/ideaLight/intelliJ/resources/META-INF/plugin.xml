@@ -9,7 +9,7 @@
     ]]></description>
 
   <change-notes><![CDATA[
-      Normal font for keywords (instead of bold), JavaDoc (instead of italic), changed JavaDoc colors, other minor changes.
+      Changed Constant/Tag fonts to normal (was bold).
     ]]>
   </change-notes>
 
