@@ -47,6 +47,7 @@
         <option name="FOREGROUND" value="60607f" />
       </value>
     </option>
+    <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES" baseAttributes="DEFAULT_KEYWORD" />
     <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
       <value>
@@ -63,7 +64,9 @@
         <option name="FOREGROUND" value="660000" />
       </value>
     </option>
+    <option name="CUSTOM_LINE_COMMENT_ATTRIBUTES" baseAttributes="DEFAULT_LINE_COMMENT" />
     <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="4c4fa1" />
@@ -226,6 +229,9 @@
         <option name="FOREGROUND" value="58806b" />
       </value>
     </option>
+    <option name="DEFAULT_TAG">
+      <value />
+    </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="b7a5b9" />
@@ -308,5 +314,9 @@
         <option name="FOREGROUND" value="56888c" />
       </value>
     </option>
+    <option name="XPATH.FUNCTION" baseAttributes="DEFAULT_FUNCTION_CALL" />
+    <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="XPATH.XPATH_NAME" baseAttributes="TEXT" />
+    <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
   </attributes>
 </scheme>
