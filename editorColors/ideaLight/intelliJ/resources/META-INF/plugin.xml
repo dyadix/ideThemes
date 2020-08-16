@@ -9,7 +9,8 @@
     ]]></description>
 
   <change-notes><![CDATA[
-      Changed Constant and markup attribute fonts to normal (was bold), Kotlin fixes (backing field variable and other)
+      Changed Constant and markup attribute fonts to normal (was bold), Kotlin fixes (backing field variable and other),
+      more default attributes: custom keywords, XPATH. Dropped tag background.
     ]]>
   </change-notes>
 
