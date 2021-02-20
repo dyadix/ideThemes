@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/editorColors/ideaLight/intelliJ/ideaLight.iml" filepath="$PROJECT_DIR$/editorColors/ideaLight/intelliJ/ideaLight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nevaTheme/nevaTheme.iml" filepath="$PROJECT_DIR$/nevaTheme/nevaTheme.iml" />
     </modules>
   </component>
 </project>

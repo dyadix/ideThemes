@@ -1,0 +1,16 @@
+{
+  "name": "nevaTheme",
+  "dark": true,
+  "author": "",
+  "editorScheme": "/nevaTheme.xml",
+  "colors": {
+    "basic_bg" : "#2a313f"
+  },
+  "ui": {
+    "Panel.background" : "basic_bg",
+    "Label.background" : "basic_bg",
+    "Button.background" : "basic_bg",
+    "CheckBox.background" : "basic_bg",
+    "Menu.background" : "basic_bg"
+  }
+}

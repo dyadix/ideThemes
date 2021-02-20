@@ -1,0 +1,29 @@
+<idea-plugin>
+  <id>net.dyadix.themes.neva</id>
+  <name>Neva Theme</name>
+  <version>1.0</version>
+  <vendor email="dyadxi@gmail.com" url="http://www.dyadix.net">dyadix</vendor>
+
+  <description><![CDATA[
+      Dark theme with blue background and light text
+    ]]></description>
+
+  <change-notes><![CDATA[
+      ------- The first initial version -------
+    ]]>
+  </change-notes>
+
+  <idea-version since-build="201.0"/>
+
+  <depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+    <themeProvider id="495efa3b-969b-408a-8b87-354ebd95e992" path="/nevaTheme.theme.json"/>
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+
+</idea-plugin>
