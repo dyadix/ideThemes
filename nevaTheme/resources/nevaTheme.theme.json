@@ -4,13 +4,30 @@
   "author": "",
   "editorScheme": "/nevaTheme.xml",
   "colors": {
-    "basic_bg" : "#2a313f"
+    "editor_bg" : "#2a313f",
+    "basic_bg" : "#323944",
+    "basic_bg_lighter" : "#3b4350"
   },
   "ui": {
     "Panel.background" : "basic_bg",
     "Label.background" : "basic_bg",
     "Button.background" : "basic_bg",
     "CheckBox.background" : "basic_bg",
-    "Menu.background" : "basic_bg"
+    "Menu.background" : "basic_bg",
+    "Tree.background" : "basic_bg",
+    "RadioButton.background" : "basic_bg",
+    "TabbedPane.background" : "basic_bg",
+    "DefaultTabs.background" : "basic_bg",
+    "EditorTabs.background" : "basic_bg",
+    "List.background" : "basic_bg",
+    "Table.background" : "basic_bg",
+    "TableHeader.background" : "basic_bg_lighter",
+    "ComboBox.background" : "basic_bg",
+    "ComboBoxButton.background" : "basic_bg",
+    "ComboBox.nonEditableBackground" : "basic_bg",
+    "ComboBox.ArrowButton.background" : "basic_bg",
+    "ComboBox.ArrowButton.nonEditableBackground" : "basic_bg",
+    "TextArea.background" : "editor_bg",
+    "TextField.background" : "editor_bg"
   }
 }
