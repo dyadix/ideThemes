@@ -28,6 +28,10 @@
     "ComboBox.ArrowButton.background" : "basic_bg",
     "ComboBox.ArrowButton.nonEditableBackground" : "basic_bg",
     "TextArea.background" : "editor_bg",
+    "SearchEverywhere.SearchField.background" : "editor_bg",
+    "SearchEverywhere.Header.background" : "basic_bg",
+    "ToolWindow.Header.background" : "basic_bg_lighter",
+    "ToolWindow.Header.inactiveBackground" : "basic_bg",
     "TextField.background" : "editor_bg"
   }
 }
