@@ -445,6 +445,7 @@
         <option name="FOREGROUND" value="aeeef1" />
       </value>
     </option>
+    <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
     <option name="LINE_NONE_COVERAGE">
       <value>
         <option name="FOREGROUND" value="ac6f68" />
