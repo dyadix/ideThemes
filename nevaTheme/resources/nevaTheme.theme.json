@@ -14,6 +14,7 @@
     "Button.background" : "basic_bg",
     "CheckBox.background" : "basic_bg",
     "Menu.background" : "basic_bg",
+    "PopupMenu.background" : "basic_bg",
     "Tree.background" : "basic_bg",
     "RadioButton.background" : "basic_bg",
     "TabbedPane.background" : "basic_bg",

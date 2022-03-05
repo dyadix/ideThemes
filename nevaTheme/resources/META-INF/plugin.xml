@@ -1,15 +1,15 @@
 <idea-plugin>
   <id>net.dyadix.themes.neva</id>
   <name>Neva Theme</name>
-  <version>1.0</version>
-  <vendor email="dyadxi@gmail.com" url="http://www.dyadix.net">dyadix</vendor>
+  <version>1.0.1</version>
+  <vendor email="dyadix@gmail.com" url="http://www.dyadix.net">dyadix</vendor>
 
   <description><![CDATA[
       Dark theme with blue background and light text
     ]]></description>
 
   <change-notes><![CDATA[
-      ------- The first initial version -------
+      Fixed popup menu separator background.
     ]]>
   </change-notes>
 
