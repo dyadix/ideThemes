@@ -9,9 +9,11 @@
     <option name="CARET_COLOR" value="95dfed" />
     <option name="CARET_ROW_COLOR" value="222734" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
+    <option name="DOCUMENTATION_COLOR" value="333d52" />
     <option name="GUTTER_BACKGROUND" value="2d3644" />
     <option name="INDENT_GUIDE" value="555a65" />
     <option name="LINE_NUMBERS_COLOR" value="696967" />
+    <option name="LOOKUP_COLOR" value="333d52" />
     <option name="MODIFIED_LINES_COLOR" value="778b67" />
     <option name="NOTIFICATION_BACKGROUND" value="415363" />
     <option name="RIGHT_MARGIN_COLOR" value="949db0" />
