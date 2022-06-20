@@ -7,11 +7,15 @@
     "editor_bg" : "#2a313f",
     "basic_bg" : "#323944",
     "basic_bg_lighter" : "#3b4350",
-    "basic_bg_darker" : "#2f3540"
+    "basic_bg_darker" : "#2f3540",
+    "active_hl" : "#4c566a",
+    "inactive_hl" : "#282e38"
   },
   "ui": {
     "*": {
-      "background": "basic_bg_darker"
+      "background": "basic_bg_darker",
+      "selectionBackground" : "active_hl",
+      "selectionInactiveBackground" : "inactive_hl"
     },
     "Panel.background" : "basic_bg",
     "Label.background" : "basic_bg",
@@ -20,8 +24,11 @@
     "Button.endBackground" : "basic_bg_lighter",
     "CheckBox.background" : "basic_bg",
     "Menu.background" : "basic_bg",
+    "Menu.selectionBackground" : "active_hl",
     "PopupMenu.background" : "basic_bg",
     "Tree.background" : "basic_bg",
+    "Tree.selectionBackground" : "active_hl",
+    "Tree.selectionInactiveBackground" : "inactive_hl",
     "RadioButton.background" : "basic_bg",
     "TabbedPane.background" : "basic_bg",
     "DefaultTabs.background" : "basic_bg",
