@@ -17,6 +17,9 @@
       "selectionBackground" : "active_hl",
       "selectionInactiveBackground" : "inactive_hl"
     },
+    "Notification.background" : "active_hl",
+    "NotificationsToolwindow.newNotification.background" : "basic_bg_lighter",
+    "NotificationsToolwindow.newNotification.hoverBackground" : "active_hl",
     "Panel.background" : "basic_bg",
     "Label.background" : "basic_bg",
     "Button.background" : "basic_bg",
