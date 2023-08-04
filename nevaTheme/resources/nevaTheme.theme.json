@@ -6,6 +6,7 @@
   "colors": {
     "editor_bg" : "#2a313f",
     "basic_bg" : "#323944",
+    "border" : "#444b58",
     "basic_bg_lighter" : "#3b4350",
     "basic_bg_darker" : "#2f3540",
     "active_hl" : "#4c566a",
@@ -52,6 +53,7 @@
     "SearchEverywhere.Header.background" : "basic_bg",
     "ToolWindow.Header.background" : "basic_bg_lighter",
     "ToolWindow.Header.inactiveBackground" : "basic_bg",
-    "TextField.background" : "editor_bg"
+    "TextField.background" : "editor_bg",
+    "Borders.color": "border"
   }
 }
