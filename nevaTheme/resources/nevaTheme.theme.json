@@ -10,7 +10,8 @@
     "basic_bg_lighter" : "#3b4350",
     "basic_bg_darker" : "#2f3540",
     "active_hl" : "#4c566a",
-    "inactive_hl" : "#282e38"
+    "inactive_hl" : "#282e38",
+    "selected_bg" : "#4f5c79"
   },
   "ui": {
     "*": {
@@ -54,6 +55,7 @@
     "ToolWindow.Header.background" : "basic_bg_lighter",
     "ToolWindow.Header.inactiveBackground" : "basic_bg",
     "TextField.background" : "editor_bg",
-    "Borders.color": "border"
+    "Borders.color": "border",
+    "ToolWindow.Button.selectedBackground": "selected_bg"
   }
 }
