@@ -17,7 +17,8 @@
     "*": {
       "background": "basic_bg_darker",
       "selectionBackground" : "active_hl",
-      "selectionInactiveBackground" : "inactive_hl"
+      "selectionInactiveBackground" : "inactive_hl",
+      "inactiveBackground" : "basic_bg_lighter"
     },
     "Notification.background" : "active_hl",
     "Popup.Header.activeBackground" : "basic_bg_lighter",
