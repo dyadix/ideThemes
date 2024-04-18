@@ -20,6 +20,7 @@
       "selectionInactiveBackground" : "inactive_hl",
       "inactiveBackground" : "basic_bg_lighter"
     },
+
     "Notification.background" : "active_hl",
     "Popup.Header.activeBackground" : "basic_bg_lighter",
     "Popup.Header.inactiveBackground" : "basic_bg",
@@ -31,8 +32,11 @@
     "Button.startBackground" : "basic_bg_lighter",
     "Button.endBackground" : "basic_bg_lighter",
     "CheckBox.background" : "basic_bg",
+
     "Menu.background" : "basic_bg",
     "Menu.selectionBackground" : "active_hl",
+    "MenuItem.background" : "basic_bg",
+
     "PopupMenu.background" : "basic_bg",
     "Tree.background" : "basic_bg",
     "Tree.selectionBackground" : "active_hl",
