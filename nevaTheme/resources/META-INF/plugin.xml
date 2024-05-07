@@ -24,8 +24,8 @@
   <depends>com.intellij.modules.platform</depends>
 
   <extensions defaultExtensionNs="com.intellij">
-    <!-- Add your extensions here -->
-    <themeProvider id="495efa3b-969b-408a-8b87-354ebd95e992" path="/nevaTheme.theme.json"/>
+    <themeProvider id="net.dyadix.neva.theme" path="/nevaTheme.theme.json"/>
+    <themeProvider id="net.dyadix.neva.theme.darker" path="/nevaThemeDarker.theme.json"/>
   </extensions>
 
   <actions>
