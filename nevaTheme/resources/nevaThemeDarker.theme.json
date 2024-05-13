@@ -6,7 +6,7 @@
   "colors": {
     "editor_bg" : "#1b222c",
     "basic_bg" : "#1d242e",
-    "border" : "#282b37",
+    "border" : "#2e313d",
     "basic_bg_lighter" : "#262935",
     "basic_bg_darker" : "#1b222d",
     "active_hl" : "#4c566a",
@@ -34,6 +34,8 @@
     "CheckBox.background" : "basic_bg",
 
     "Menu.background" : "basic_bg",
+    "Menu.separatorColor": "border",
+    "Popup.borderColor": "border",
     "Menu.selectionBackground" : "active_hl",
     "MenuItem.background" : "basic_bg",
 
