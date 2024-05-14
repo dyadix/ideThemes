@@ -9,6 +9,7 @@
     "border" : "#2e313d",
     "basic_bg_lighter" : "#262935",
     "basic_bg_darker" : "#1b222d",
+    "active_hl_darker" : "#363e4c",
     "active_hl" : "#4c566a",
     "inactive_hl" : "#282e38",
     "selected_bg" : "#4f5c79"
@@ -63,6 +64,9 @@
     "ToolWindow.Header.inactiveBackground" : "basic_bg",
     "TextField.background" : "editor_bg",
     "Borders.color": "border",
-    "ToolWindow.Button.selectedBackground": "selected_bg"
+    "ToolWindow.Button.selectedBackground": "selected_bg",
+
+    "MemoryIndicator.allocatedBackground": "active_hl_darker",
+    "MemoryIndicator.usedBackground": "active_hl"
   }
 }
