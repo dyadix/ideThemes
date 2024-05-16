@@ -22,11 +22,11 @@
       "inactiveBackground" : "basic_bg_lighter"
     },
 
-    "Notification.background" : "active_hl",
+    "Notification.background" : "active_hl_darker",
     "Popup.Header.activeBackground" : "basic_bg_lighter",
     "Popup.Header.inactiveBackground" : "basic_bg",
     "NotificationsToolwindow.newNotification.background" : "basic_bg_lighter",
-    "NotificationsToolwindow.newNotification.hoverBackground" : "active_hl",
+    "NotificationsToolwindow.newNotification.hoverBackground" : "active_hl_darker",
     "Panel.background" : "basic_bg",
     "Label.background" : "basic_bg",
     "Button.background" : "basic_bg",
