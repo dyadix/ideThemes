@@ -1,21 +1,15 @@
 <idea-plugin>
   <id>net.dyadix.themes.neva</id>
-  <name>Neva Theme</name>
-  <version>1.0.4</version>
+  <name>Neva Theme Pack</name>
+  <version>2.0</version>
   <vendor email="dyadix@gmail.com" url="http://www.dyadix.net">dyadix</vendor>
 
   <description><![CDATA[
-      Dark theme with blue background and light text
+      Two dark themes with blue background and light text.
     ]]></description>
 
   <change-notes><![CDATA[
-      > Notifications and popup headers backgrounds.
-      > Lighter border color.
-      > Darker injected language background.
-      > Less accented right margin/indent guides colors.
-      > ToolWindow button background.
-      > Inactive title background (lighter basic).
-      > Fix inconsistent menu item colors.
+      New "nevaTheme Darker" added.
     ]]>
   </change-notes>
 
