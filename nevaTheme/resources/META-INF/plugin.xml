@@ -20,6 +20,7 @@
   <extensions defaultExtensionNs="com.intellij">
     <themeProvider id="net.dyadix.neva.theme" path="/nevaTheme.theme.json"/>
     <themeProvider id="net.dyadix.neva.theme.darker" path="/nevaThemeDarker.theme.json"/>
+    <themeProvider id="net.dyadix.neva.theme.darker" path="/nevaThemeIce.theme.json"/>
   </extensions>
 
   <actions>
