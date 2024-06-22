@@ -2,7 +2,6 @@
   <metaInfo>
     <property name="ide">idea</property>
     <property name="ideVersion">2024.2.0.0</property>
-    <property name="originalScheme">Neva Snow</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="59a6fc" />
