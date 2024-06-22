@@ -1,0 +1,70 @@
+{
+  "name": "nevaTheme",
+  "dark": false,
+  "author": "",
+  "editorScheme": "/nevaThemeIce.xml",
+  "colors": {
+    "editor_bg" : "#e4e7ea",
+    "basic_bg" : "#e4e4e4",
+    "border" : "#acadae",
+    "basic_bg_lighter" : "#e0e0e0",
+    "basic_bg_darker" : "#efefef",
+    "active_hl_darker" : "#90b1c8",
+    "active_hl" : "#718b9e",
+    "inactive_hl" : "#d1dbee",
+    "selected_bg" : "#4f5c79"
+  },
+  "ui": {
+    "*": {
+      "background": "basic_bg_darker",
+      "selectionBackground" : "active_hl",
+      "selectionInactiveBackground" : "inactive_hl",
+      "inactiveBackground" : "basic_bg_lighter"
+    },
+
+    "Notification.background" : "inactive_hl",
+    "Popup.Header.activeBackground" : "basic_bg_lighter",
+    "Popup.Header.inactiveBackground" : "basic_bg",
+    "NotificationsToolwindow.newNotification.background" : "basic_bg_lighter",
+    "NotificationsToolwindow.newNotification.hoverBackground" : "active_hl",
+    "Panel.background" : "basic_bg",
+    "Label.background" : "basic_bg",
+    "Button.background" : "basic_bg",
+    "Button.startBackground" : "basic_bg_lighter",
+    "Button.endBackground" : "basic_bg_lighter",
+    "CheckBox.background" : "basic_bg",
+
+    "Menu.background" : "basic_bg",
+    "Menu.selectionBackground" : "active_hl",
+    "MenuItem.background" : "basic_bg",
+
+    "PopupMenu.background" : "basic_bg",
+    "Tree.background" : "basic_bg",
+    "Tree.selectionBackground" : "active_hl",
+    "Tree.selectionInactiveBackground" : "inactive_hl",
+    "RadioButton.background" : "basic_bg",
+    "TabbedPane.background" : "basic_bg",
+    "DefaultTabs.background" : "basic_bg",
+    "EditorTabs.background" : "basic_bg",
+    "EditorTabs.underlinedTabBackground" : "basic_bg_lighter",
+    "List.background" : "basic_bg",
+    "Table.background" : "basic_bg",
+    "TableHeader.background" : "basic_bg_lighter",
+    "ComboBox.background" : "basic_bg",
+    "ComboBoxButton.background" : "basic_bg",
+    "ComboBox.nonEditableBackground" : "basic_bg",
+    "ComboBox.ArrowButton.background" : "basic_bg",
+    "ComboBox.ArrowButton.nonEditableBackground" : "basic_bg",
+    "TextArea.background" : "editor_bg",
+    "SearchEverywhere.SearchField.background" : "editor_bg",
+    "SearchEverywhere.Header.background" : "basic_bg",
+    "ToolWindow.Header.background" : "basic_bg_lighter",
+    "ToolWindow.Header.inactiveBackground" : "basic_bg",
+    "TextField.background" : "editor_bg",
+    "Borders.color": "border",
+    "ToolWindow.Button.selectedBackground": "selected_bg",
+
+    "MemoryIndicator.allocatedBackground": "active_hl_darker",
+    "MemoryIndicator.usedBackground": "active_hl"
+  }
+}
