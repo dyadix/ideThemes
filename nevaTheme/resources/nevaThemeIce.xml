@@ -22,7 +22,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="bfbfd3" />
     <option name="SELECTED_INDENT_GUIDE" value="a5a5a5" />
     <option name="SELECTED_TEARLINE_COLOR" value="a7b1c6" />
-    <option name="SELECTION_BACKGROUND" value="68717f" />
+    <option name="SELECTION_BACKGROUND" value="728c9f" />
     <option name="TEARLINE_COLOR" value="555a65" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="292d27" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="31302f" />
@@ -270,7 +270,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="396182" />
+        <option name="FOREGROUND" value="28435a" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -281,7 +281,7 @@
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="70708e" />
+        <option name="FOREGROUND" value="866771" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -313,6 +313,18 @@
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
         <option name="FOREGROUND" value="3e4446" />
+      </value>
+    </option>
+    <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
+      <value>
+        <option name="EFFECT_COLOR" value="866771" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="DEFAULT_REASSIGNED_PARAMETER">
+      <value>
+        <option name="EFFECT_COLOR" value="866771" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_FIELD">
@@ -391,8 +403,8 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="ff8d80" />
-        <option name="ERROR_STRIPE_COLOR" value="ff8d80" />
+        <option name="EFFECT_COLOR" value="d94e3e" />
+        <option name="ERROR_STRIPE_COLOR" value="d94e3e" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -684,9 +696,9 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="ffffff" />
-        <option name="ERROR_STRIPE_COLOR" value="fff427" />
-        <option name="EFFECT_TYPE" value="5" />
+        <option name="EFFECT_COLOR" value="dfb524" />
+        <option name="ERROR_STRIPE_COLOR" value="dfb524" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
