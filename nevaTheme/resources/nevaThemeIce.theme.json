@@ -7,7 +7,7 @@
     "editor_bg" : "#e4e7ea",
     "basic_bg" : "#e4e4e4",
     "border" : "#acadae",
-    "basic_bg_lighter" : "#e4e7ea",
+    "basic_bg_lighter" : "#ffffff",
     "basic_bg_darker" : "#e2e4e7",
     "active_hl_darker" : "#90b1c8",
     "active_hl" : "#718b9e",
@@ -16,6 +16,7 @@
   },
   "ui": {
     "*": {
+      "foreground": "#414c5b",
       "background": "basic_bg_darker",
       "selectionBackground" : "active_hl",
       "selectionInactiveBackground" : "inactive_hl",
@@ -30,6 +31,10 @@
     "Panel.background" : "basic_bg",
     "Label.background" : "basic_bg",
     "Button.background" : "basic_bg",
+    "Button.default.startBackground" : "active_hl_darker",
+    "Button.default.endBackground" : "active_hl_darker",
+    "Button.default.startBorderColor": "active_hl",
+    "Button.default.endBorderColor": "active_hl",
     "Button.startBackground" : "basic_bg_lighter",
     "Button.endBackground" : "basic_bg_lighter",
     "CheckBox.background" : "basic_bg",
