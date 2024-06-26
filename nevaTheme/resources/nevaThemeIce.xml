@@ -23,10 +23,10 @@
     <option name="SELECTED_TEARLINE_COLOR" value="a7b1c6" />
     <option name="SELECTION_BACKGROUND" value="728c9f" />
     <option name="TEARLINE_COLOR" value="555a65" />
-    <option name="VCS_ANNOTATIONS_COLOR_1" value="292d27" />
-    <option name="VCS_ANNOTATIONS_COLOR_2" value="31302f" />
-    <option name="VCS_ANNOTATIONS_COLOR_3" value="26282b" />
-    <option name="VCS_ANNOTATIONS_COLOR_4" value="353035" />
+    <option name="VCS_ANNOTATIONS_COLOR_1" value="bed1b5" />
+    <option name="VCS_ANNOTATIONS_COLOR_2" value="c7c3bf" />
+    <option name="VCS_ANNOTATIONS_COLOR_3" value="bbc3ce" />
+    <option name="VCS_ANNOTATIONS_COLOR_4" value="c7b5c7" />
     <option name="VISUAL_INDENT_GUIDE" value="c3d2da" />
     <option name="WHITESPACES" value="a5a5a5" />
   </colors>
@@ -42,7 +42,7 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="a65a59" />
+        <option name="BACKGROUND" value="ffa6dd" />
       </value>
     </option>
     <option name="CONSOLE_BLACK_OUTPUT">
@@ -57,7 +57,7 @@
     </option>
     <option name="CONSOLE_CYAN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="b2b2" />
+        <option name="FOREGROUND" value="64abab" />
       </value>
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
@@ -455,9 +455,8 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="3d727f" />
-        <option name="BACKGROUND" value="dde8e2" />
-        <option name="ERROR_STRIPE_COLOR" value="59d6cc" />
+        <option name="BACKGROUND" value="cbd6e2" />
+        <option name="ERROR_STRIPE_COLOR" value="7b8ea3" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -540,6 +539,11 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="LOG_DEBUG_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="64abab" />
+      </value>
+    </option>
     <option name="LOG_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="b84b26" />
@@ -548,6 +552,11 @@
     <option name="LOG_EXPIRED_ENTRY">
       <value>
         <option name="FOREGROUND" value="b0b498" />
+      </value>
+    </option>
+    <option name="LOG_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="4bee" />
       </value>
     </option>
     <option name="LOG_WARNING_OUTPUT">
@@ -658,6 +667,12 @@
         <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="849c9d" />
         <option name="ERROR_STRIPE_COLOR" value="604b71" />
+      </value>
+    </option>
+    <option name="TEXT_STYLE_WARNING">
+      <value>
+        <option name="EFFECT_COLOR" value="e7830a" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="TODO_ATTRIBUTES">
