@@ -12,7 +12,8 @@
     "active_hl_darker" : "#90b1c8",
     "active_hl" : "#718b9e",
     "inactive_hl" : "#d1dbee",
-    "selected_bg" : "#6f899c"
+    "selected_bg" : "#6f899c",
+    "empty_area_bg": "#b8c0c8"
   },
   "ui": {
     "*": {
@@ -70,6 +71,8 @@
     "ToolWindow.Button.selectedBackground": "selected_bg",
 
     "MemoryIndicator.allocatedBackground": "active_hl_darker",
-    "MemoryIndicator.usedBackground": "active_hl"
+    "MemoryIndicator.usedBackground": "active_hl",
+
+    "Editor.background": "empty_area_bg"
   }
 }
