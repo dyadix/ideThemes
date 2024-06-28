@@ -42,7 +42,7 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="ffa6dd" />
+        <option name="BACKGROUND" value="dcbac9" />
       </value>
     </option>
     <option name="CONSOLE_BLACK_OUTPUT">
@@ -121,17 +121,17 @@
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES" baseAttributes="DEFAULT_KEYWORD" />
     <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="cab0d6" />
+        <option name="FOREGROUND" value="9159ae" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD3_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="75ad9f" />
+        <option name="FOREGROUND" value="498677" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD4_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="b58283" />
+        <option name="FOREGROUND" value="9b5b5c" />
       </value>
     </option>
     <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
@@ -334,7 +334,7 @@
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="3f7267" />
+        <option name="FOREGROUND" value="466d71" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -464,13 +464,13 @@
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="444444" />
-        <option name="ERROR_STRIPE_COLOR" value="ffffcc" />
+        <option name="ERROR_STRIPE_COLOR" value="c6c6b1" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="b5bee9" />
+        <option name="BACKGROUND" value="cee6f5" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT">
@@ -513,6 +513,12 @@
         <option name="FOREGROUND" value="6b86b6" />
       </value>
     </option>
+    <option name="KOTLIN_MUTABLE_VARIABLE">
+      <value>
+        <option name="EFFECT_COLOR" value="866771" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
     <option name="KOTLIN_NAMED_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="6b86b6" />
@@ -520,17 +526,17 @@
     </option>
     <option name="KOTLIN_SMART_CAST_RECEIVER">
       <value>
-        <option name="FOREGROUND" value="aeeef1" />
+        <option name="FOREGROUND" value="6a8c8e" />
       </value>
     </option>
     <option name="KOTLIN_SMART_CAST_VALUE">
       <value>
-        <option name="FOREGROUND" value="e1ebe2" />
+        <option name="FOREGROUND" value="6e8970" />
       </value>
     </option>
     <option name="KOTLIN_SMART_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="aeeef1" />
+        <option name="FOREGROUND" value="487a7e" />
       </value>
     </option>
     <option name="LINE_NONE_COVERAGE">
@@ -574,7 +580,7 @@
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="9580ab" />
+        <option name="BACKGROUND" value="a092ae" />
       </value>
     </option>
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
