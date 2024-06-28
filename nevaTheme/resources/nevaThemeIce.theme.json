@@ -21,7 +21,7 @@
       "background": "basic_bg_darker",
       "selectionBackground" : "active_hl",
       "selectionInactiveBackground" : "inactive_hl",
-      "inactiveBackground" : "basic_bg_lighter"
+      "inactiveBackground" : "basic_bg_darker"
     },
 
     "Notification.background" : "inactive_hl",
