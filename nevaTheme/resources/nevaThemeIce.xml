@@ -10,6 +10,12 @@
     <option name="CARET_ROW_COLOR" value="d0d5de" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="DOCUMENTATION_COLOR" value="d5d9e4" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="8d58a6" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="a7700" />
+    <option name="FILESTATUS_MODIFIED" value="486bb7" />
+    <option name="FILESTATUS_modifiedOutside" value="8998cd" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="81998f" />
     <option name="GUTTER_BACKGROUND" value="2d3644" />
     <option name="INDENT_GUIDE" value="c5c5d9" />
@@ -213,8 +219,8 @@
     </option>
     <option name="DEFAULT_DOC_MARKUP">
       <value>
-        <option name="FOREGROUND" value="6c6e60" />
-        <option name="BACKGROUND" value="bdc7bd" />
+        <option name="FOREGROUND" value="969c84" />
+        <option name="BACKGROUND" value="f0f5db" />
       </value>
     </option>
     <option name="DEFAULT_DOT">
@@ -269,7 +275,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="28435a" />
+        <option name="FOREGROUND" value="585464" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -585,7 +591,7 @@
     </option>
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="616a7a" />
+        <option name="BACKGROUND" value="b3c7e7" />
       </value>
     </option>
     <option name="PY.STRING.U">
@@ -664,7 +670,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="4a5769" />
+        <option name="FOREGROUND" value="556c7b" />
         <option name="BACKGROUND" value="e4e7ea" />
       </value>
     </option>
