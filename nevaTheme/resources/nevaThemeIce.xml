@@ -1,7 +1,7 @@
 <scheme name="Neva Ice" version="142" parent_scheme="Default">
   <metaInfo>
     <property name="ide">idea</property>
-    <property name="ideVersion">2024.2.0.0</property>
+    <property name="ideVersion">2024.3.0.0</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="59a6fc" />
@@ -78,7 +78,7 @@
     </option>
     <option name="CONSOLE_GREEN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="87bb87" />
+        <option name="FOREGROUND" value="689668" />
       </value>
     </option>
     <option name="CONSOLE_MAGENTA_OUTPUT">
@@ -103,13 +103,13 @@
     </option>
     <option name="CONSOLE_USER_INPUT">
       <value>
-        <option name="FOREGROUND" value="92c492" />
+        <option name="FOREGROUND" value="5e865e" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ffcc00" />
+        <option name="FOREGROUND" value="d2ad51" />
       </value>
     </option>
     <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
@@ -180,7 +180,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="456d7e" />
+        <option name="FOREGROUND" value="5f689d" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
@@ -263,7 +263,7 @@
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="456d7e" />
+        <option name="FOREGROUND" value="5f689d" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -306,7 +306,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="866771" />
+        <option name="FOREGROUND" value="926390" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -528,6 +528,11 @@
     <option name="KOTLIN_NAMED_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="6b86b6" />
+      </value>
+    </option>
+    <option name="KOTLIN_PACKAGE_PROPERTY">
+      <value>
+        <option name="FOREGROUND" value="7b779a" />
       </value>
     </option>
     <option name="KOTLIN_SMART_CAST_RECEIVER">
@@ -758,5 +763,8 @@
         <option name="FOREGROUND" value="5f866e" />
       </value>
     </option>
+    <option name="XPATH.FUNCTION" baseAttributes="DEFAULT_FUNCTION_CALL" />
+    <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="XPATH.XPATH_NAME" baseAttributes="TEXT" />
   </attributes>
 </scheme>
