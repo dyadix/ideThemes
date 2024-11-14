@@ -5,10 +5,10 @@
   "editorScheme": "/nevaTheme.xml",
   "colors": {
     "editor_bg" : "#2a313f",
-    "basic_bg" : "#323944",
+    "basic_bg" : "#2a313f",
     "border" : "#444b58",
     "basic_bg_lighter" : "#3b4350",
-    "basic_bg_darker" : "#2f3540",
+    "basic_bg_darker" : "#2a313f",
     "active_hl_darker" : "#3c4553",
     "active_hl" : "#4c566a",
     "inactive_hl" : "#282e38",
@@ -36,7 +36,9 @@
 
     "Menu.background" : "basic_bg",
     "Menu.selectionBackground" : "active_hl",
+    "Menu.separatorColor" : "border",
     "MenuItem.background" : "basic_bg",
+    "Popup.borderColor": "border",
 
     "PopupMenu.background" : "basic_bg",
     "Tree.background" : "basic_bg",

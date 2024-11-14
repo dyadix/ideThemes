@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>net.dyadix.themes.neva</id>
   <name>Neva Theme Pack</name>
-  <version>2.1</version>
+  <version>2.1.1</version>
   <vendor email="dyadix@gmail.com" url="http://www.dyadix.net">dyadix</vendor>
 
   <description><![CDATA[
@@ -9,7 +9,7 @@
     ]]></description>
 
   <change-notes><![CDATA[
-      New light “nevaTheme Ice” added.
+      * Unified background for basic nevaTheme
     ]]>
   </change-notes>
 
